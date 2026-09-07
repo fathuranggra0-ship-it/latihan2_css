@@ -8,7 +8,7 @@
 body {
     /* Kombinasi 2 jenis font: Segoe UI untuk teks utama & Georgia untuk judul */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: darkred ; /* Warna latar belakang halaman */
+    background-color: gold; /* Warna latar belakang halaman */
     color: #333333;
     line-height: 1.6;
 }
@@ -27,7 +27,7 @@ h1, h2, h3 {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #2c3e50; /* Warna background menonjol */
+    background-color: darkorange; /* Warna background menonjol */
     padding: 15px 30px;
     display: flex;
     justify-content: space-between;
@@ -149,8 +149,8 @@ h1, h2, h3 {
    ================================================= */
 
 footer {
-    background-color: #2c3e50;
-    color: #ffffff;
+    background-color: aliceblue;
+    color: black;
     text-align: center; /* Rata tengah (text-align: center) */
     padding: 25px 20px; /* Margin/padding teratur */
     margin-top: 40px;
